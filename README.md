@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 YouDailyNonsense
 
 ## 🚀 A Curiosity-Driven Learning Platform for School Students
@@ -72,3 +73,6 @@ Gamified progress tracking:
 ---
 
 
+=======
+# Learning-Platform
+>>>>>>> 698c7009a63b5d64385c205cb288d13f397e6c97
